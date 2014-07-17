@@ -1,0 +1,2 @@
+I had created a simple scala project. Using sbt-assembly I had created a jar that includes class files of both src and test classes.
+Now I had placed the jar generated in a new folder and I trying to execute the suite when I encounter this error
